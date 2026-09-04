@@ -16,6 +16,6 @@ IMP (Informative Micro Pet) is just a little guy.
 
 ## Current Components
 - NFP1315-45A - OLED Display
-- ESP32 DevKit v1 Type-C
+- ESP32 DevKit v1 Type-C - Microcontroller
 
 ---
